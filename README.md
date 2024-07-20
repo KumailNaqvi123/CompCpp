@@ -26,7 +26,7 @@ The main class Lexical contains methods for each state of the DFA:<br>
 Lexical_Analyzer(string s): The main method that processes the input string and categorizes tokens.<br>
 
 # Example Code
-```
+```cpp
 #include <iostream>
 #include <fstream>
 #include <string>
